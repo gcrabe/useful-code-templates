@@ -1,0 +1,33 @@
+{
+  "name": "gulp-training",
+  "version": "1.0.0",
+  "description": "lessons code from gulp screencast { gulp version 3.9.1 }",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "gc",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gcrabe/gulp-training"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.18.7",
+    "del": "^2.2.2",
+    "eslint-config-defaults": "^9.0.0",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-debug": "^3.0.0",
+    "gulp-eslint": "^3.0.1",
+    "gulp-if": "^2.0.2",
+    "gulp-newer": "^1.3.0",
+    "gulp-notify": "^3.0.0",
+    "gulp-sourcemaps": "^2.4.1",
+    "gulp-stylus": "^2.6.0",
+    "run-sequence": "^1.2.2",
+    "stream-combiner2": "^1.1.1",
+    "stylus": "^0.54.5",
+    "through2": "^2.0.3"
+  }
+}
