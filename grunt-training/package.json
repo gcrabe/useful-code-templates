@@ -1,0 +1,34 @@
+{
+  "name": "grunt-training",
+  "version": "1.0.0",
+  "description": "grunt training project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gcrabe/useful-code-templates.git"
+  },
+  "keywords": [
+    "grunt",
+    "template"
+  ],
+  "author": "Egor Batyr",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/gcrabe/useful-code-templates/issues"
+  },
+  "homepage": "https://github.com/gcrabe/useful-code-templates#readme",
+  "devDependencies": {
+    "grunt": "^1.1.0",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-cssmin": "^3.0.0",
+    "grunt-contrib-watch": "^1.1.0",
+    "grunt-remove-logging": "^0.2.0",
+    "time-grunt": "^2.0.0"
+  },
+  "dependencies": {
+    "time-grunt": "^2.0.0"
+  }
+}
